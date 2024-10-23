@@ -16,15 +16,9 @@ const About = ({ setPlayState }) => {
         />
       </div>
       <div className="about-right">
-        <h3>About the Codex</h3>
-        <h2>The ultimate location to store your ideas</h2>
-        <p>My name is Roderick D'Pen welcome to the Codex. I have been writing worlds for most of my life many of those worlds were lost with the passage of time and the finite nature of many pieces of paper.</p>
-        <p>My inspiration for this project comes from my favorite authors.</p>
-        <p>Brandon Sanderson enjoys the method of creating a world, its cosmology, weather, flora, fauna, etc., and then writing a story about people in that world.</p>
-        <p>This style of writing can also be found in the greats of Gary Gygax and Dave Arneson who created an entire game system called D&D which encourages this style of design.</p>
-        <p>I have structured this project to achieve the same methodology by allowing writers to create a world and build within it and then link them together to create a galaxy and eventually maybe their own universe.</p>
-        <p>I hope this project aids you in a similar way.</p>
-        <p>I am always looking to improve this site because I use it myself every day. If you have any ideas please feel free to reach out; you can find my email in the contact us tab..</p>
+        <h3>About</h3>
+        <h2>Your university</h2>
+        <p> As a dedicated full-stack developer, I offer a comprehensive range of services tailored to meet the diverse needs of modern businesses and individuals. From front-end design to back-end development, I specialize in creating dynamic and user-friendly web applications that not only look great but also perform seamlessly. My expertise includes HTML, CSS, JavaScript, and popular frameworks such as React and Node.js, ensuring that your website is responsive, efficient, and scalable. Whether you need a simple landing page or a complex web application, I am committed to delivering high-quality solutions that enhance user experience and drive engagement. You can contact me below if you like it is fully functional!</p>
       </div>
     </div>
   );
