@@ -24,7 +24,7 @@ const About = ({ setPlayState }) => {
         <p>This style of writing can also be found in the greats of Gary Gygax and Dave Arneson who created an entire game system called D&D which encourages this style of design.</p>
         <p>I have structured this project to achieve the same methodology by allowing writers to create a world and build within it and then link them together to create a galaxy and eventually maybe their own universe.</p>
         <p>I hope this project aids you in a similar way.</p>
-        <p>I am always looking to improve this site because I use it myself every day. If you have any ideas please feel free to reach out; you can find my email in the contact us tab.</p>
+        <p>I am always looking to improve this site because I use it myself every day. If you have any ideas please feel free to reach out; you can find my email in the contact us tab..</p>
       </div>
     </div>
   );
